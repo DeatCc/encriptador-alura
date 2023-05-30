@@ -1,0 +1,137 @@
+*{
+    width: auto;
+    height: auto;
+    
+}
+.boy-page{
+
+    margin: 0px;
+    position: absolute;
+    
+}
+
+.logo{
+    width: 120;
+    height: 48px;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+
+
+
+.seccion1{
+    position: absolute;
+    width: auto;
+    height: auto;
+    left: 70px;
+}
+
+.contenido-text{
+    position: absolute;
+    width: 690px;
+    height: 670px;
+    top: 92px;
+    left: 154px;
+    
+}
+
+.box-text{
+    position: relative;
+    width: 670px;
+    height: 642px;
+    top: 10px;
+    left: 7px
+}
+
+.alerta{
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    top: 763px;
+    left: 154px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+
+
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+
+    position: absolute;
+    width: 680px;
+    height: 67px;
+    left: 154px;
+    top: 800px;
+}
+
+
+.button-encriptar{
+    
+ 
+
+    width: 328px;
+    height: 67px;
+}
+
+.button-desencriptar{
+
+
+    width: 328px;
+    height: 67px;
+}
+
+.seccion2{
+    position: absolute;
+    width: 389px;
+    height: 935px;
+    top: 40px;
+    left: 1000px;
+    background-color: #ffffff;
+    box-shadow: 0px 24px 32px -8px black;
+    border-radius: 32px;
+}
+
+.muñeco{
+    position: absolute;
+    width: 336px;
+    height: 304px;
+    left: 21px;
+    top: 188px;
+}
+
+.contenido-parrafo{
+    width: 320px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 16px;
+    position: absolute;
+    top: 502px;
+    left: 40px;
+
+}
+
+.button-copy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1px;
+    gap: 24px;
+    position: absolute;
+    width: 336px;
+    height: 67px;
+    left: 24px;
+    top: 812px;
+    text-align: center;
+   
+}
+
